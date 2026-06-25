@@ -59,7 +59,7 @@ Computer Science student at UNIP, passionate about software development and tech
   <img src="https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=9e18a1ff">
   <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=9e18a1ff">
   <img src="https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=9e18a1ff">
-  <img src="https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=9e18a1ff">
+  <img src="https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=9e18a1ff">
 
 </div>
 
