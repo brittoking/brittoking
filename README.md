@@ -67,6 +67,8 @@ Computer Science student at UNIP, passionate about software development and tech
 
 <img src="https://streak-stats.demolab.com?user=ladymnria&theme=dark&ring=9E18A1FF&fire=c9a84c&currStreakLabel=9E18A1FF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=9E18A1FF" alt="streak"/>
 
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=brittoking&show_icons=true&theme=dark&title_color=9E18A1FF&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
+
 <br/><br/>
 
 </div>
