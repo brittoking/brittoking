@@ -88,13 +88,6 @@ Computer Science student at UNIP, passionate about software development and tech
 ---
 
 ## 🕯️ Bonfires Lit — Education
-<div align="left">
-<p>| | Course | Status |</p>
-<p>| ◈ | SEU CURSO 1 | 🔄 In Progress |</p>
-<p>| ◈ | SEU CURSO 2 | 🔄 In Progress |</p>
-<p>| ◈ | SEU CURSO 3 | ✅ Complete |</p>
-<p>| ◈ | SEU CURSO 4 | ✅ Complete |</p>
-</div>
 
 | | Course | Status |
 |:---:|:---|:---:|
