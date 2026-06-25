@@ -46,6 +46,7 @@ Computer Science student at UNIP, passionate about software development and tech
 ◈  Covenant  →  Open Source
 ◈  Build     →  INT / DEX
 ◈  Status    →  Hunter. Refuses to go hollow.
+
 ---
 
 ## Technologies
