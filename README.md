@@ -41,13 +41,11 @@ Computer Science student at UNIP, passionate about software development and tech
 
 <br clear="right"/>
 
-<div align= "center"> 
-<p>◈  Class     →  Full-Stack Developer</p>
-<p>◈  Origin    →  Brazil 🇧🇷</p>
-<p>◈  Covenant  →  Open Source</p>
-<p>◈  Build     →  INT / DEX</p>
-<p>◈  Status    →  Hunter. Refuses to go hollow.</p>
-</div>
+◈  Class     →  Full-Stack Developer
+◈  Origin    →  Brazil 🇧🇷
+◈  Covenant  →  Open Source
+◈  Build     →  INT / DEX
+◈  Status    →  Hunter. Refuses to go hollow.
 ---
 
 ## Technologies
