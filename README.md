@@ -95,6 +95,14 @@ Computer Science student at UNIP, passionate about software development and tech
 <p>| ◈ | SEU CURSO 3 | ✅ Complete |</p>
 <p>| ◈ | SEU CURSO 4 | ✅ Complete |</p>
 </div>
+
+| | Course | Status |
+|:---:|:---|:---:|
+| ◈ | SEU CURSO 1 | 🔄 In Progress |
+| ◈ | SEU CURSO 2 | 🔄 In Progress |
+| ◈ | SEU CURSO 3 | ✅ Complete |
+| ◈ | SEU CURSO 4 | ✅ Complete |
+
 ---
 
 ## 🗡️ Featured Projects
