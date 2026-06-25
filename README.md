@@ -56,6 +56,7 @@ Computer Science student at UNIP, passionate about software development and tech
   <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=9E18A1FF">
   <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=9E18A1FF">
   <img src="https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=9E18A1FF">
+  ![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=c9a84c)
 
 </div>
 
