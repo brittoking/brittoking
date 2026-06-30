@@ -106,22 +106,23 @@ Computer Science student at UNIP, passionate about software development and tech
 
 ## 🗡️ Featured Projects
 
-<div align="left">
-<a href= "https://github.com/brittoking/projetos">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=brittoking&repo=projetos&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c"
-  alt="projects"
-  width="40%"
-  />
-  </a>
-</div>
-<div align="right">
-  <a href="https://github.com/brittoking/monoalphabetic_encryption">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=brittoking&repo=monoalphabetic_encryption&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c""
-alt="project"
-width="40%"
-/>
+<table>
+<tr>
+
+<td width="50%">
+<a href="https://github.com/brittoking/projetos">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=brittoking&repo=projetos&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c">
 </a>
-</div>
+</td>
+
+<td width="50%">
+<a href="https://github.com/brittoking/monoalphabetic_encryption">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=brittoking&repo=monoalphabetic_encryption&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c">
+</a>
+</td>
+
+</tr>
+</table>
   
 
 
