@@ -106,7 +106,7 @@ Computer Science student at UNIP, passionate about software development and tech
 
 ## 🗡️ Featured Projects
 
-<div align="center">
+<div align="left">
 <a href= "https://github.com/brittoking">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=brittoking&repo=projetos&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c"
   alt="projects"
@@ -114,10 +114,10 @@ Computer Science student at UNIP, passionate about software development and tech
   />
   </a>
 </div>
-<div align="center">
+<div align="right">
   <a href="https://github.com/brittoking">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=brittoking&repo=monoalphabetic_encryption&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c"
-alt="projects"
+alt="project"
 width="40%"
 />
 </a>
