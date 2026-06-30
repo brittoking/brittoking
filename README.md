@@ -115,7 +115,7 @@ Computer Science student at UNIP, passionate about software development and tech
   </a>
 </div>
 
-[![SEU_REPO](https://github-readme-stats.vercel.app/api/pin/?username=brittoking&repo=SEU_REPO&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/brittoking/financial-system)
+[![SEU_REPO](https://github-readme-stats.vercel.app/api/pin/?username=brittoking&repo=monoalphabetic_encryption&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/brittoking/monoalphabetic_encryption)
 
 
 ---
