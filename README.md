@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/brittoking/projetos/main/banner1.jpg" width="85%" alt="banner1">
+  <img src="b1810d0bf4fbd370349d671a3f9389af.gif" width="85%" alt="banner1">
 </div>
 
 <!-- TITLE -->
