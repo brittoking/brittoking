@@ -33,7 +33,7 @@ Computer Science student at UNIP, passionate about software development and tech
 
 <td width="30%">
 
-<img align="right" width="240px" src="https://raw.githubusercontent.com/brittoking/projetos/main/char2.jpg" alt="character"/>
+<img align="right" width="240px" src="5264-darkcore.png" alt="character"/>
 
 </td>
 </tr>
