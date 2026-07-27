@@ -9,19 +9,6 @@
 
 <br/>
 
-<!-- CONTACT -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/arthur-santana-ribeiro-609705252/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
- </a>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=brittoking&style=flat-square&color=800080&label=PROFILE+VIEWS">
-</div>
-
 <div align= "center"> 
   <table>
 <tr>
@@ -38,13 +25,22 @@ Computer Science student at UNIP, passionate about software development and tech
 </tr>
 </table>
 
-<br clear="right"/>
+<!-- CONTACT -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/arthur-santana-ribeiro-609705252/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+ </a>
+</div>
 
-  ◈  Class     →  Full-Stack Developer
-  ◈  Origin    →  Brazil 🇧🇷
-  ◈  Covenant  →  Open Source
-  ◈  Build     →  INT / DEX
-  ◈  Status    →  Hunter. Refuses to go hollow.
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=brittoking&style=flat-square&color=800080&label=PROFILE+VIEWS">
+</div>
+
+
+
+<br clear="right"/>
 
 ## Technologies
 
@@ -71,7 +67,6 @@ Computer Science student at UNIP, passionate about software development and tech
 <br/><br/>
 
 </div>
----
 
 ## 📜 Contribution Graph
 
@@ -104,8 +99,8 @@ Computer Science student at UNIP, passionate about software development and tech
 <tr>
 
 <td width="80%">
-<a href="https://github.com/brittoking/projetos">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=brittoking&repo=projetos&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c">
+<a href="https://github.com/brittoking/monoalphabetic_encryption">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=brittoking&repo=monoalphabetic_encryption&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c">
 </a>
 </td>
 
