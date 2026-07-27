@@ -119,6 +119,6 @@ Computer Science student at UNIP, passionate about software development and tech
 
 <div align="center">
 
-*† 𝘰𝘯𝘦 𝘥𝘪𝘴𝘤𝘪𝘱𝘭𝘪𝘯𝘦𝘥 𝘥𝘢𝘺 𝘤𝘢𝘯 𝘵𝘦𝘢𝘤𝘩 𝘺𝘰𝘶 𝘮𝘰𝘳𝘦 𝘵𝘩𝘢𝘯 𝘢 𝘺𝘦𝘢𝘳 𝘰𝘧 𝘦𝘹𝘤𝘶𝘴𝘦𝘴 †*
+*† one disciplined day can teach you more than a year of excuses †*
 
 </div>
