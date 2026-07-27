@@ -37,7 +37,7 @@ Computer Science student at UNIP, passionate about software development and tech
 </td>
 </tr>
 <tr>
-  <td width="100%">
+  <td width="60%">
   ◈  Class     →  Full-Stack Developer
   ◈  Origin    →  Brazil 🇧🇷
   ◈  Covenant  →  Open Source
