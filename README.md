@@ -34,20 +34,22 @@ Computer Science student at UNIP, passionate about software development and tech
 <td width="30%">
 
 <img align="right" width="240px" src="5264-darkcore.png" alt="character"/>
-
 </td>
+</tr>
+<tr>
+  <td width="60%">
+  ◈  Class     →  Full-Stack Developer
+  ◈  Origin    →  Brazil 🇧🇷
+  ◈  Covenant  →  Open Source
+  ◈  Build     →  INT / DEX
+  ◈  Status    →  Hunter. Refuses to go hollow.
+  </td>
 </tr>
 </table>
 
 <br clear="right"/>
 
-◈  Class     →  Full-Stack Developer
-◈  Origin    →  Brazil 🇧🇷
-◈  Covenant  →  Open Source
-◈  Build     →  INT / DEX
-◈  Status    →  Hunter. Refuses to go hollow.
 
----
 
 ## Technologies
 
