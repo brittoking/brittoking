@@ -34,12 +34,6 @@ Computer Science student at UNIP, passionate about software development and tech
 
 <br/>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=brittoking&style=flat-square&color=800080&label=PROFILE+VIEWS">
-</div>
-
-
-
 <br clear="right"/>
 
 ## Technologies
